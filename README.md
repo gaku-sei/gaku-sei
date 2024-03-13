@@ -19,3 +19,7 @@ Exploring the evolution of games and the game industry is another of my passions
 ### Get in Touch
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out! Let's collaborate and build amazing things together! 📩
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaku-sei&hide=html,javascript,purescript,dhall,rescript,ruby,coffeescript,svelte&langs_count=6&layout=donut-vertical&theme=tokyonight)
