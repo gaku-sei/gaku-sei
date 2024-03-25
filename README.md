@@ -22,4 +22,4 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaku-sei&hide=html,javascript,purescript,dhall,rescript,ruby,coffeescript,svelte&langs_count=6&layout=donut-vertical&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaku-sei&hide=html,javascript,purescript,dhall,rescript,coffeescript,svelte&langs_count=7&layout=donut-vertical&theme=tokyonight)
