@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Repository!
 
-### I'm Kévin Combriat, a French full-stack engineer with over 12 years of experience, working in Japan, France, and Canada!
+### I'm Kévin Combriat, a French full-stack engineer with over 14 years of experience, working in Japan, France, and Canada!
 
 I have a strong passion for backend development, particularly enjoying working with Rust, Node.js, and Golang!
 
