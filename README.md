@@ -16,7 +16,7 @@ Lately, I've been diving into Big Data and Machine Learning. My current project 
 - **Frontend**: React, Svelte
 - **Big Data & ML**: Arrow, Datafusion
 
-Feel free to [read my CV for more](https://gaku-sei.github.io/combriat_kevin/resume).
+Feel free to [read my CV for more](https://gaku-sei.github.io/combriat_kevin).
 
 ### About Me
 
@@ -30,7 +30,7 @@ Feel free to [read my CV for more](https://gaku-sei.github.io/combriat_kevin/res
 If you have any questions, suggestions, or just want to connect, feel free to reach out! Let's collaborate and build amazing things together!
 
 - [LinkedIn](https://www.linkedin.com/in/k%C3%A9vin-combriat-62555699/)
-- [My CV](https://gaku-sei.github.io/combriat_kevin/resume)
+- [My CV](https://gaku-sei.github.io/combriat_kevin)
 
 ---
 
